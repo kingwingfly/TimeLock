@@ -1,18 +1,18 @@
 [workspace]
-members = ["xxx_core"]
+members = ["timelock", "timelock_program"]
 resolver = "2"
 
 [workspace.package]
 version = "0.0.1"
 authors = ["Louis <836250617@qq.com>"]
-description = ""
+description = "A time lock based on solana."
 license = "MIT"
 edition = "2021"
-repository = "https://github.com/kingwingfly/xxx"
-documentation = "https://docs.rs/xxx"
+repository = "https://github.com/kingwingfly/TimeLock"
+documentation = "https://docs.rs/timelock"
 
 [workspace.dependencies]
-xxx_core = { path = "xxx_core" }
+timelock = { path = "timelock" }
 # async
 tokio = { version = "1", default-features = false }
 

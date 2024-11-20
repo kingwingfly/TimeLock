@@ -1,5 +1,5 @@
 [package]
-name = "xxx_core"
+name = "timelock"
 version.workspace = true
 edition.workspace = true
 authors.workspace = true

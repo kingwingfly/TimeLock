@@ -15,23 +15,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kingwingfly/repo_name">
+  <a href="https://github.com/kingwingfly/TimeLock">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">TimeLock</h3>
 
   <p align="center">
-    project_description
+    A time lock based on solana.
     <br />
-    <a href="https://github.com/kingwingfly/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kingwingfly/TimeLock"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kingwingfly/repo_name">View Demo</a>
+    <a href="https://github.com/kingwingfly/TimeLock">View Demo</a>
     ·
-    <a href="https://github.com/kingwingfly/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/kingwingfly/TimeLock/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/kingwingfly/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/kingwingfly/TimeLock/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -68,9 +68,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/kingwingfly/repo_name)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/kingwingfly/TimeLock)
 
-Change these: `repo_name`, `project_title`, `project_description`, `documentation_link`
+A time lock based on solana.
+
+I was cheated by ChatGPT which said that I can store secret on the blockchain, and release the secret only
+if some conditions are met. But it's not true for data is public on chain.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +101,7 @@ Change these: `repo_name`, `project_title`, `project_description`, `documentatio
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kingwingfly/repo_name.git
+   git clone https://github.com/kingwingfly/TimeLock.git
    ```
 2. Compilation
    ```sh
@@ -114,7 +117,7 @@ Change these: `repo_name`, `project_title`, `project_description`, `documentatio
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](documentation_link)_
+_For more examples, please refer to the [Documentation](https://github.com/kingwingfly/TimeLock)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +128,7 @@ _For more examples, please refer to the [Documentation](documentation_link)_
 
 - [ ] Feature
 
-See the [open issues](https://github.com/kingwingfly/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/kingwingfly/TimeLock/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +166,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Louis - 836250617@qq.com
 
-Project Link: [https://github.com/kingwingfly/repo_name](https://github.com/kingwingfly/repo_name)
+Project Link: [https://github.com/kingwingfly/TimeLock](https://github.com/kingwingfly/TimeLock)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,16 +183,16 @@ Project Link: [https://github.com/kingwingfly/repo_name](https://github.com/king
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kingwingfly/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/kingwingfly/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kingwingfly/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/kingwingfly/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/kingwingfly/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/kingwingfly/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kingwingfly/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/kingwingfly/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/kingwingfly/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/kingwingfly/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/kingwingfly/TimeLock.svg?style=for-the-badge
+[contributors-url]: https://github.com/kingwingfly/TimeLock/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kingwingfly/TimeLock.svg?style=for-the-badge
+[forks-url]: https://github.com/kingwingfly/TimeLock/network/members
+[stars-shield]: https://img.shields.io/github/stars/kingwingfly/TimeLock.svg?style=for-the-badge
+[stars-url]: https://github.com/kingwingfly/TimeLock/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kingwingfly/TimeLock.svg?style=for-the-badge
+[issues-url]: https://github.com/kingwingfly/TimeLock/issues
+[license-shield]: https://img.shields.io/github/license/kingwingfly/TimeLock.svg?style=for-the-badge
+[license-url]: https://github.com/kingwingfly/TimeLock/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Rust]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=orange
 [Rust-url]: https://www.rust-lang.org

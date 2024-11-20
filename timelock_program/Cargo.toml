@@ -1,0 +1,21 @@
+[package]
+name = "timelock_program"
+version.workspace = true
+authors.workspace = true
+description = "time lock on-chain program."
+license.workspace = true
+edition.workspace = true
+repository.workspace = true
+documentation.workspace = true
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+solana-program = { version = "2.1.1" }
+borsh = { version = "1.5.3" }
+
+[dev-dependencies]
+solana-program-test = { version = "2.1.1" }
+tokio = { version = "1" }
+solana-sdk = { version = "2.1.1" }
