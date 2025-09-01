@@ -12,10 +12,10 @@ documentation.workspace = true
 crate-type = ["cdylib", "lib"]
 
 [dependencies]
-solana-program = { version = "2.1.1" }
+solana-program = { version = "3.0.0" }
 borsh = { version = "1.5.3" }
 
 [dev-dependencies]
-solana-program-test = { version = "2.1.1" }
+solana-program-test = { version = "3.0.0" }
 tokio = { version = "1" }
-solana-sdk = { version = "2.1.1" }
+solana-sdk = { version = "3.0.0" }
